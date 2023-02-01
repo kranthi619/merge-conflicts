@@ -1,5 +1,5 @@
-Hello world of champs
-this is sampe text for merge conflict
+Hello world 
+this is sampe text for merge clear
 i am kranthi
-git learning
+git 
 dev-dec
