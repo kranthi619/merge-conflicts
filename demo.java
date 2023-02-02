@@ -1,5 +1,5 @@
 Hello world 
 this is sampe text for merge conflict
-i am brock
+i am champ
 git learning class
-dev-dec
+git-dev
