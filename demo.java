@@ -1,3 +1,5 @@
 Hello world
-this is sampe text for merge clear
-i am kranthi
+this is sample text for merge clear
+i am brock
+git-dev
+made changes by champ2
